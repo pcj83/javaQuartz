@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.quartz.Trigger"/>
+<fullyQualifiedTypeName name="org.quartz.TriggerBuilder"/>
+<fullyQualifiedTypeName name="org.quartz.SimpleScheduleBuilder"/>
+<fullyQualifiedTypeName name="org.quartz.ScheduleBuilder"/>
+<fullyQualifiedTypeName name="org.quartz.impl.StdSchedulerFactory"/>
+<fullyQualifiedTypeName name="com.google.common.util.concurrent.AbstractScheduledService.Scheduler"/>
+<fullyQualifiedTypeName name="org.quartz.Scheduler"/>
+<fullyQualifiedTypeName name="org.quartz.JobDetail"/>
+<fullyQualifiedTypeName name="org.quartz.JobBuilder"/>
+<fullyQualifiedTypeName name="SayHello"/>
+<fullyQualifiedTypeName name="org.quartz.CronScheduleBuilder"/>
+</qualifiedTypeNameHistroy>
